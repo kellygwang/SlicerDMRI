@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-SlicerDMRI is part of [3D Slicer](http://www.slicer.org). 
+SlicerDMRI is included as part of [3D Slicer](http://www.slicer.org). 
 
-The code is available on our [github page](https://github.com/SlicerDMRI).
+The source code is available on our [github page](https://github.com/SlicerDMRI).
 
 We gratefully acknowledge funding for this project provided by NIH NCI ITCR U01CA199459 (Open
 Source Diffusion MRI Technology For Brain Cancer Research), NIH
