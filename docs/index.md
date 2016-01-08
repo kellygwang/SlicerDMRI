@@ -13,10 +13,11 @@ What can I do with the software?
 
 Tutorials for the finer steps
 ---------------------
-* [Slicer training](http://www.slicer.org/slicerWiki/index.php/Documentation/Nightly)
+* [Slicer training](http://www.slicer.org/slicerWiki/index.php/Documentation/Nightly/Training)
 
 Pointers for developers
 ---------------------
 * [List of Diffusion MRI modules in 3D Slicer](http://www.slicer.org/slicerWiki/index.php/Documentation/Nightly#Modules_by_category_Diffusion)
+* [Slicer nightly documentation](http://www.slicer.org/slicerWiki/index.php/Documentation/Nightly)
 
 Coming soon: more links to documentation for Slicer diffusion MRI.
