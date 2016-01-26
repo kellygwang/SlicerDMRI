@@ -14,6 +14,7 @@ What can I do with the software?
 Tutorials for the finer steps
 ---------------------
 * [Slicer training](http://www.slicer.org/slicerWiki/index.php/Documentation/Nightly/Training)
+* DICOM to NRRD [DWIConverter tutorial](docs/tutorials/DWIConverterTutorial.pdf)
 
 Pointers for developers
 ---------------------
