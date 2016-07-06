@@ -19,7 +19,8 @@ Tutorials for the finer steps
 * [Slicer Neurosurgical Plannning tutorial](https://www.slicer.org/slicerWiki/index.php/Documentation/4.5/Training#Slicer4_Neurosurgical_Planning_Tutorial): Interactive DTI tractography in Slicer
 * [Slicer Fiber Bundle Selection and Scalar Measurements tutorial](https://www.slicer.org/slicerWiki/index.php/Documentation/4.5/Training#Fiber_Bundle_Selection_and_Scalar_Measurements): Tractography selection and measurements for studies
 * [Slicer UKF Tractography tutorial](https://www.slicer.org/slicerWiki/index.php/Documentation/4.5/Training#UKF): Multi-fiber tractography for crossing fibers
- 
+* [Slicer CLI Application tutorial](tutorials/DWIConverterTutorial.pdf): Tractography selection and measurements a command line interface (CLI) mode
+
 Pointers for developers
 ---------------------
 * [List of Diffusion MRI modules in 3D Slicer](http://www.slicer.org/slicerWiki/index.php/Documentation/Nightly#Modules_by_category_Diffusion)
