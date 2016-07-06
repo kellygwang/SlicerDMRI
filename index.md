@@ -2,8 +2,7 @@
 layout: default
 ---
 
-Welcome to the web portal for diffusion magnetic resonance imaging in
-3D Slicer. 
+Slicer DMRI: Diffusion magnetic resonance imaging in 3D Slicer open-source software
 
 Here you will find information for clinical
 research users and for software developers.
