@@ -17,8 +17,7 @@ Tutorials for the finer steps
 * [Slicer Fiber Bundle Selection and Scalar Measurements tutorial](https://www.slicer.org/slicerWiki/index.php/Documentation/4.5/Training#Fiber_Bundle_Selection_and_Scalar_Measurements): Tractography selection and measurements for studies
 * [Slicer CLI Application tutorial](tutorials/CLITutorial.pdf): Tractography selection and measurements in command line interface (CLI) mode
 
-Pointers for developers
+Individual Slicer module documentation pages
 ---------------------
-* [List of Diffusion MRI modules in 3D Slicer](http://www.slicer.org/slicerWiki/index.php/Documentation/Nightly#Modules_by_category_Diffusion)
-* [Slicer nightly documentation](http://www.slicer.org/slicerWiki/index.php/Documentation/Nightly)
+* [Slicer nightly documentation of Diffusion MRI modules](http://www.slicer.org/slicerWiki/index.php/Documentation/Nightly#Modules_by_category_Diffusion)
 
