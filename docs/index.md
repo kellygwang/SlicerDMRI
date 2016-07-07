@@ -4,16 +4,12 @@ title: Documentation
 permalink: /docs/
 ---
 
-What can I do with the software?
+General Slicer guide
 ---------------------
-* Load DICOM and nrrd diffusion MRI data
-* Perform tractography, compute scalar maps such as FA, and more
-* Visualize, edit, and register multimodal data using 3D Slicer tools
-* Extended, improved, and refactored SlicerDMRI functionality coming soon...
+* [Slicer training](http://www.slicer.org/slicerWiki/index.php/Documentation/Nightly/Training)
 
 Tutorials for the finer steps
 ---------------------
-* [Slicer training](http://www.slicer.org/slicerWiki/index.php/Documentation/Nightly/Training)
 * [DWIConverter tutorial](tutorials/DWIConverterTutorial.pdf): diffusion weighted image data conversion from DICOM to NRRD
 * [Slicer DTI tutorial](https://www.slicer.org/slicerWiki/index.php/Documentation/4.5/Training#Slicer4_Diffusion_Tensor_Imaging_Tutorial): General DTI overview
 * [Slicer Neurosurgical Plannning tutorial](https://www.slicer.org/slicerWiki/index.php/Documentation/4.5/Training#Slicer4_Neurosurgical_Planning_Tutorial): Interactive DTI tractography in Slicer
@@ -26,4 +22,3 @@ Pointers for developers
 * [List of Diffusion MRI modules in 3D Slicer](http://www.slicer.org/slicerWiki/index.php/Documentation/Nightly#Modules_by_category_Diffusion)
 * [Slicer nightly documentation](http://www.slicer.org/slicerWiki/index.php/Documentation/Nightly)
 
-Coming soon: more links to documentation for Slicer diffusion MRI.
