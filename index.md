@@ -2,11 +2,11 @@
 layout: default
 ---
 
-Diffusion magnetic resonance imaging in 3D Slicer open-source software for visualization and image analysis. 
+Diffusion magnetic resonance imaging in 3D Slicer open-source software 
 
 What can I do with the software?
 ---------------------
-* Load DICOM and nrrd/nhdr diffusion MRI data
+* Load DICOM and nrrd/nhdr diffusion MRI medical image data
 * Perform tractography, compute scalar maps such as FA, and more
 * Visualize, edit, and register multimodal data using 3D Slicer tools
 * Extended, improved, and refactored SlicerDMRI functionality coming soon...
