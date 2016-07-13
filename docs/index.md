@@ -10,7 +10,7 @@ General Slicer guide
 
 Tutorials for the finer steps
 ---------------------
-* [DWIConverter tutorial](tutorials/DWIConverterTutorial.pdf): diffusion weighted image data conversion from DICOM to NRRD
+* [DWIConverter tutorial](tutorials/DWIConverterTutorial.pdf) [test data](http://slicer.kitware.com/midas3/download/item/93008/SiemensTrioTim2.tar.gz): diffusion weighted image data conversion from DICOM to NRRD
 * [Slicer DTI tutorial](https://www.slicer.org/slicerWiki/index.php/Documentation/4.5/Training#Slicer4_Diffusion_Tensor_Imaging_Tutorial): General DTI overview
 * [Slicer Neurosurgical Planning tutorial](https://www.slicer.org/slicerWiki/index.php/Documentation/4.5/Training#Slicer4_Neurosurgical_Planning_Tutorial): Interactive DTI tractography in Slicer
 * [Slicer UKF Tractography tutorial](https://www.slicer.org/slicerWiki/index.php/Documentation/4.5/Training#UKF): Multi-fiber tractography for crossing fibers
