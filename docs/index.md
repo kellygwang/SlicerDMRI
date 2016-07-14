@@ -4,6 +4,12 @@ title: Documentation
 permalink: /docs/
 ---
 
+Citations
+---------------------
+* For publications please include this text (modifying the initial part to describe your SlicerDMRI use case):
+
+"We performed diffusion MRI and/or tractography analysis and/or visualization in 3D Slicer (http://www.slicer.org) via the SlicerDMRI project (https://github.com/SlicerDMRI), funded by NIH U01 CA199459."
+
 General Slicer guide
 ---------------------
 * [Slicer training](http://www.slicer.org/slicerWiki/index.php/Documentation/Nightly/Training)
