@@ -6,7 +6,7 @@ permalink: /docs/
 
 Citations
 ---------------------
-* For citing the Slicer platform: http://wiki.slicer.org/slicerWiki/index.php/CitingSlicer
+* For citing the [Slicer platform](http://wiki.slicer.org/slicerWiki/index.php/CitingSlicer)
 * An example of how to cite SlicerDMRI:
 
 "We performed diffusion MRI and/or tractography analysis and/or visualization in 3D Slicer (http://www.slicer.org) via the SlicerDMRI project (https://github.com/SlicerDMRI), funded by NIH U01 CA199459."
