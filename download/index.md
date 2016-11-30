@@ -11,6 +11,6 @@ First, [download and install 3D Slicer](http://download.slicer.org/) for your pl
 
 Then install the SlicerDMRI extension using the Slicer [extension manager](https://www.slicer.org/wiki/Documentation/Nightly/SlicerApplication/ExtensionsManager):
 
-![Image of install process: click "View" menu, "Extension Manager", select the "Diffusion" category, and click "Install" button for the SlicerDMRI entry](../images/extmgrinstall.png)
+![Install process: click "View" menu, open the "Extension Manager". Then select the "Diffusion" category and click "Install" for the SlicerDMRI entry](../images/extmgrinstall.png)
 
 The source code is available from the [SlicerDMRI GitHub repository](https://github.com/SlicerDMRI). Please email us with any questions, or file an issue on GitHub.
