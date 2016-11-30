@@ -5,8 +5,12 @@ permalink: /download/
 order: 4
 ---
 
-SlicerDMRI is included as part of [3D Slicer](http://www.slicer.org).
+SlicerDMRI is a [3D Slicer](http://www.slicer.org) extension.
 
-Install SlicerDMRI by [downloading 3D Slicer](http://download.slicer.org/) for your platform (Mac, Windows, or Linux). Please install the Nightly version, as SlicerDMRI has been significantly improved since the Slicer 4.5 release.
+First, [download and install 3D Slicer](http://download.slicer.org/) for your platform (Mac, Windows, or Linux). 
 
-The source code is available on our [github page](https://github.com/SlicerDMRI).
+Then install the SlicerDMRI extension using the Slicer [extension manager](https://www.slicer.org/wiki/Documentation/Nightly/SlicerApplication/ExtensionsManager):
+
+![Image of install process: click "View" menu, "Extension Manager", select the "Diffusion" category, and click "Install" button for the SlicerDMRI entry](../images/extmgrinstall.png)
+
+The source code is available from the [SlicerDMRI GitHub repository](https://github.com/SlicerDMRI). Please email us with any questions, or file an issue on GitHub.
