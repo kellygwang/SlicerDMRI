@@ -2,6 +2,7 @@
 layout: default
 title: About
 permalink: /about/
+order: 1
 ---
 An open-source project to improve and extend diffusion magnetic resonance imaging software in 3D Slicer.
 

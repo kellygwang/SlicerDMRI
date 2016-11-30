@@ -2,6 +2,7 @@
 layout: default
 title: Download
 permalink: /download/
+order: 4
 ---
 
 SlicerDMRI is included as part of [3D Slicer](http://www.slicer.org).

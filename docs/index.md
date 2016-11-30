@@ -2,6 +2,7 @@
 layout: default
 title: Documentation
 permalink: /docs/
+order: 3
 ---
 
 Citations of SlicerDMRI in publications
