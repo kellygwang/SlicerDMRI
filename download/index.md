@@ -2,7 +2,7 @@
 layout: default
 title: Download
 permalink: /download/
-order: 4
+order: 5
 ---
 
 SlicerDMRI is a [3D Slicer](http://www.slicer.org) extension.
