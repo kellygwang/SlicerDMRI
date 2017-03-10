@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Documentation
+title: Documentation and Tutorials
 permalink: /docs/
 order: 3
 ---
 
-Citations of SlicerDMRI in publications
+How to cite SlicerDMRI in publications
 ---------------------
 * How to cite the [Slicer platform](http://wiki.slicer.org/slicerWiki/index.php/CitingSlicer)
 * An example of how to cite SlicerDMRI (modify the first part according to your use case):
@@ -16,7 +16,7 @@ General Slicer guide
 ---------------------
 * [Slicer training](http://www.slicer.org/slicerWiki/index.php/Documentation/Nightly/Training)
 
-Tutorials for the finer steps
+Tutorials and sample data
 ---------------------
 * [DWIConverter tutorial](tutorials/DWIConverterTutorial.pdf) ([test data](http://slicer.kitware.com/midas3/download/item/93008/SiemensTrioTim2.tar.gz)): diffusion weighted image data conversion from DICOM to NRRD
 * [Slicer DTI tutorial](https://www.slicer.org/slicerWiki/index.php/Documentation/4.5/Training#Slicer4_Diffusion_Tensor_Imaging_Tutorial): General DTI overview
