@@ -4,11 +4,11 @@ span.undefined { color:red; }
 .clear {clear:both;}
 .year { position: relative; height: 100%; border-bottom: 1px solid black; display: inline-block;}
 .yearlabel { position: absolute; bottom: -20px; text-align: center; width: 100%; font-size: smaller;}
-.pub { border: 1px solid white; background-color: #eee; }
-.inproceedings { background-color: #ccf; }
-.article { background-color: #beb; }
-.inbook { background-color: #eaa; }
-.phdthesis { background-color: #999; }
+.pub { border: 1px solid white; background-color: #EE3333; }
+.inproceedings { background-color: #65656f; }
+.article {background-color: #3366aa;}
+.inbook { background-color: #cccc55; }
+.phdthesis { background-color: #992288; }
 .unpublished { background-color: #eae; }
 .mastersthesis { background-color: #eea; }
 .techreport { background-color: #b77; }
