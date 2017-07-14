@@ -1,6 +1,5 @@
 # Site settings
 title: SlicerDMRI
-email: slicer-users@bwh.harvard.edu
 description: > # this means to ignore newlines until "baseurl:"
   Diffusion MRI in 3D Slicer: open-source software for diffusion magnetic resonance imaging
 baseurl: "" # the subpath of your site, e.g. /blog/
