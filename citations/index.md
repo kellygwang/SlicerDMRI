@@ -21,4 +21,3 @@ How to cite SlicerDMRI in publications
 
 ---
 
-{% include References.html %}
