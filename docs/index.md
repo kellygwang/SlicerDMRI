@@ -5,17 +5,10 @@ permalink: /docs/
 order: 3
 ---
 
-How to cite SlicerDMRI in publications
----------------------
-* How to cite the [Slicer platform](http://wiki.slicer.org/slicerWiki/index.php/CitingSlicer)
-* An example of how to cite SlicerDMRI (modify the first part according to your use case):
+Help!
+-----
 
-    "We performed diffusion MRI tractography and/or analysis and/or visualization in 3D Slicer (www.slicer.org) via the SlicerDMRI project (dmri.slicer.org)."
-
-* Please "star" these GitHub repositories:
-    * [http://github.com/SlicerDMRI/SlicerDMRI](http://github.com/SlicerDMRI/SlicerDMRI)
-    * [http://github.com/Slicer/slicer](http://github.com/SlicerDMRI/SlicerDMRI)
-    ![While logged in to GitHub, please visit the two links above and select the "Star" button at the top right of the screen](../images/repo_star.png)
+After reviewing the material below, for usage questions please visit the [Slicer Discussion Forum](https://discourse.slicer.org).
 
 General Slicer guide
 ---------------------
@@ -38,3 +31,15 @@ For developers
 ---------------------
 * [Python code to access tensor data from a DTI volume](https://www.slicer.org/slicerWiki/index.php/Documentation/Nightly/ScriptRepository#Access_values_in_a_DTI_tensor_volume)
 * [Source code of SlicerDMRI and whitematteranalysis](https://github.com/SlicerDMRI)
+
+How to cite SlicerDMRI in publications
+---------------------
+* How to cite the [Slicer platform](http://wiki.slicer.org/slicerWiki/index.php/CitingSlicer)
+* An example of how to cite SlicerDMRI (modify the first part according to your use case):
+
+    "We performed diffusion MRI tractography and/or analysis and/or visualization in 3D Slicer (www.slicer.org) via the SlicerDMRI project (dmri.slicer.org)."
+
+* Please "star" these GitHub repositories:
+    * [http://github.com/SlicerDMRI/SlicerDMRI](http://github.com/SlicerDMRI/SlicerDMRI)
+    * [http://github.com/Slicer/slicer](http://github.com/SlicerDMRI/SlicerDMRI)
+    ![While logged in to GitHub, please visit the two links above and select the "Star" button at the top right of the screen](../images/repo_star.png)
