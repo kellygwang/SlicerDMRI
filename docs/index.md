@@ -22,6 +22,7 @@ Tutorials and sample data
 * [Slicer UKF Tractography tutorial](https://www.slicer.org/slicerWiki/index.php/Documentation/Nightly/Training#UKF): Multi-fiber tractography for crossing fibers
 * [Slicer Fiber Bundle Selection and Scalar Measurements tutorial](https://www.slicer.org/slicerWiki/index.php/Documentation/Nightly/Training#Fiber_Bundle_Selection_and_Scalar_Measurements): Tractography selection and measurements for studies
 * [Slicer CLI Application tutorial](tutorials/CLITutorial.pdf): Tractography selection and measurements in command line interface (CLI) mode
+* [DICOM TR Converter tutorial](tutorials/DICOM_tractography_converter.pdf): Loading and saving tractography as DICOM TR objects.
 
 Individual Slicer module documentation pages
 ---------------------
