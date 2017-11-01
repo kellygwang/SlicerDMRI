@@ -8,9 +8,11 @@ order: 2
 How to cite SlicerDMRI in publications
 --------------------------------------
 * How to cite the [Slicer platform](http://wiki.slicer.org/slicerWiki/index.php/CitingSlicer)
-* An example of how to cite SlicerDMRI (modify the first part according to your use case):
+* An example of how to cite SlicerDMRI (modify the first part of the sentence according to your use case):
 
-    "We performed diffusion MRI tractography and/or analysis and/or visualization in 3D Slicer (www.slicer.org) via the SlicerDMRI project (dmri.slicer.org)."
+    "We performed diffusion MRI tractography and/or analysis and/or visualization in 3D Slicer (www.slicer.org) via the SlicerDMRI project (dmri.slicer.org) (Norton et al. 2017)."
+    
+    Norton I, Essayed I, Zhang F, Pujol S, Yarmarkovich A, Golby A, Kindlmann G, Wasserman D, Johnson J, Westin CF, O’Donnell LJ. SlicerDMRI: Open Source Diffusion MRI Software for Brain Cancer Research. Cancer Research. 2017.
 
 * Please "star" these GitHub repositories:
     * [http://github.com/SlicerDMRI/SlicerDMRI](http://github.com/SlicerDMRI/SlicerDMRI)
