@@ -14,12 +14,6 @@ How to cite SlicerDMRI in publications
     
     Norton I, Essayed I, Zhang F, Pujol S, Yarmarkovich A, Golby A, Kindlmann G, Wasserman D, Johnson J, Westin CF, O’Donnell LJ. SlicerDMRI: Open Source Diffusion MRI Software for Brain Cancer Research. Cancer Research. 2017.
 
-* Please "star" these GitHub repositories:
-    * [http://github.com/SlicerDMRI/SlicerDMRI](http://github.com/SlicerDMRI/SlicerDMRI)
-    * [http://github.com/Slicer/slicer](http://github.com/SlicerDMRI/SlicerDMRI)
-    ![While logged in to GitHub, please visit the two links above and select the "Star" button at the top right of the screen](../images/repo_star.png)
-
----
 
 Citations
 ---------
