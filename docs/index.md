@@ -31,7 +31,7 @@ Individual Slicer module documentation pages
 For developers
 ---------------------
 * [Source code of SlicerDMRI and whitematteranalysis](https://github.com/SlicerDMRI)
-* [DICOM Tractography Connectathon at RSNA 2017] (https://qiicr.gitbooks.io/dicom4qi/content/instructions/tractography-results-dicom-tr.html)
+* [DICOM Tractography Connectathon at RSNA 2017](https://qiicr.gitbooks.io/dicom4qi/content/instructions/tractography-results-dicom-tr.html)
 * [Python code to access tensor data from a DTI volume](https://www.slicer.org/slicerWiki/index.php/Documentation/Nightly/ScriptRepository#Access_values_in_a_DTI_tensor_volume)
 
 * Please consider adding a "star" to these GitHub repositories:
