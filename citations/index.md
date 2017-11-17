@@ -12,7 +12,7 @@ How to cite SlicerDMRI in publications
 
     "We performed diffusion MRI tractography and/or analysis and/or visualization in 3D Slicer (www.slicer.org) via the SlicerDMRI project (dmri.slicer.org) (Norton et al. 2017)."
     
-    Norton I, Essayed I, Zhang F, Pujol S, Yarmarkovich A, Golby A, Kindlmann G, Wasserman D, Johnson J, Westin CF, O’Donnell LJ. SlicerDMRI: Open Source Diffusion MRI Software for Brain Cancer Research. Cancer Research. 2017.
+    Norton I, Essayed I, Zhang F, Pujol S, Yarmarkovich A, Golby A, Kindlmann G, Wassermann D, Johnson J, Westin CF, O’Donnell LJ. SlicerDMRI: Open Source Diffusion MRI Software for Brain Cancer Research. Cancer Research. 2017.
 
 
 Citations
