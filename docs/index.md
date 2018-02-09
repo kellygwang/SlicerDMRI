@@ -16,13 +16,13 @@ General Slicer guide
 
 Tutorials and sample data
 ---------------------
-* [DWIConverter tutorial](tutorials/DWIConverterTutorial.pdf) ([test data](http://slicer.kitware.com/midas3/download/item/93008/SiemensTrioTim2.tar.gz)): diffusion weighted image data conversion from DICOM to NRRD
-* [Slicer DTI tutorial](https://www.slicer.org/slicerWiki/index.php/Documentation/Nightly/Training#Slicer4_Diffusion_Tensor_Imaging_Tutorial): General DTI overview
-* [Slicer Neurosurgical Planning tutorial](https://www.slicer.org/slicerWiki/index.php/Documentation/Nightly/Training#Slicer4_Neurosurgical_Planning_Tutorial): Interactive DTI tractography in Slicer
-* [Slicer UKF Tractography tutorial](https://www.slicer.org/slicerWiki/index.php/Documentation/Nightly/Training#UKF): Multi-fiber tractography for crossing fibers
-* [Slicer Fiber Bundle Selection and Scalar Measurements tutorial](https://www.slicer.org/slicerWiki/index.php/Documentation/Nightly/Training#Fiber_Bundle_Selection_and_Scalar_Measurements): Tractography selection and measurements for studies
-* [Slicer CLI Application tutorial](tutorials/CLITutorial.pdf): Tractography selection and measurements in command line interface (CLI) mode
-* [DICOM TR Converter tutorial](tutorials/DICOM_tractography_converter.pdf): Loading and saving tractography as DICOM TR objects.
+* [DWIConverter tutorial](http://dmri.slicer.org/tutorials/dwi_converter) ([test data](http://slicer.kitware.com/midas3/download/item/93008/SiemensTrioTim2.tar.gz)): diffusion weighted image data conversion from DICOM to NRRD
+* [Slicer DTI tutorial](http://dmri.slicer.org/tutorials/diffusion_mri_analysis): General DTI overview
+* [Slicer Neurosurgical Planning tutorial](http://dmri.slicer.org/tutorials/neurosurgical_planning_dti): Interactive DTI tractography in Slicer
+* [Slicer UKF Tractography tutorial](http://dmri.slicer.org/tutorials/ukf_tractography): Multi-fiber tractography for crossing fibers
+* [Slicer Fiber Bundle Selection and Scalar Measurements tutorial](http://dmri.slicer.org/tutorials/tractography_measurement): Tractography selection and measurements for studies
+* [Slicer CLI Application tutorial](http://dmri.slicer.org/tutorials/cli_measurements): Tractography selection and measurements in command line interface (CLI) mode
+* [DICOM TR Converter tutorial](http://dmri.slicer.org/tutorials/dicom_tractography): Loading and saving tractography as DICOM TR objects.
 
 Individual Slicer module documentation pages
 ---------------------
@@ -36,5 +36,5 @@ For developers
 
 * Please consider adding a "star" to these GitHub repositories:
     * [http://github.com/SlicerDMRI/SlicerDMRI](http://github.com/SlicerDMRI/SlicerDMRI)
-    * [http://github.com/Slicer/slicer](http://github.com/SlicerDMRI/SlicerDMRI)
+    * [http://github.com/Slicer/slicer](http://github.com/slicer/slicer)
     ![While logged in to GitHub, please visit the two links above and select the "Star" button at the top right of the screen](../images/repo_star.png)
