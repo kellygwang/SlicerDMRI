@@ -7,6 +7,7 @@ Requires ruby, bundler, jekyll.
 
 ```
 gem install bundler
+(bundle update # sometimes required if there are errors/discrepancies)
 bundle exec jekyll serve
 ```
 
