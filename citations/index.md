@@ -20,4 +20,4 @@ Citations
 
 Below is a list of publications using 3D Slicer diffusion functionality such as tensor estimation, fiber tracking, fiber selection, and tractography visualization. The references were retrieved in Google Scholar using keywords 'SlicerDMRI', 'Slicer Tractography' and 'Slicer DTI'.  Please contact us on the [Slicer Discussion Forum](https://discourse.slicer.org) with any additions or questions.
 
-{% include References.html %}
+{% include_relative References.html %}
