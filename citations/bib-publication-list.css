@@ -1,9 +1,9 @@
 span.undefined { color:red; }
 .bibtable {width:100%; margin: 0 auto; clear: both;}
-.bibchart { width: 100%; height: 300px; margin-bottom: 20px;}
+.bibchart { width: 100%; height: 300px; margin-bottom: 40px;}
 .clear {clear:both;}
 .year { position: relative; height: 100%; border-bottom: 1px solid black; display: inline-block;}
-.yearlabel { position: absolute; bottom: -20px; text-align: center; width: 100%; font-size: smaller;}
+.yearlabel { position: absolute; bottom: -40px; text-align: center; width: 100%; font-size: smaller;}
 .pub { border: 1px solid white; background-color: #EE3333; }
 .inproceedings { background-color: #65656f; }
 .article {background-color: #3366aa;}
@@ -23,6 +23,7 @@ table.display td.center { text-align: center; }
 .sorting { background: url('lib/images/sort_both.png') no-repeat center right; }
 .sorting_asc_disabled { background: url('lib/images/sort_asc_disabled.png') no-repeat center right; }
 .sorting_desc_disabled { background: url('lib/images/sort_desc_disabled.png') no-repeat center right; }
+table.display { margin-top: 24px; }
 tr.odd { background-color: #eee; }
 tr.even { background-color: white; }
 div.hidden { display: none;}
