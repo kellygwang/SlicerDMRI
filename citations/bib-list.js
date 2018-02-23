@@ -2702,12 +2702,12 @@ var bibtexify = (function($) {
             'conference': 'Conference',
             'inbook': 'Book chapter',
             'incollection': 'In Collection',
-            'inproceedings': 'Conference',
+            'inproceedings': 'In Conf. Proceedings',
             'manual': 'Manual',
             'mastersthesis': 'Thesis',
             'misc': 'Misc',
             'phdthesis': 'PhD Thesis',
-            'proceedings': 'Conference proceeding',
+            'proceedings': 'Conf. Full Proceeding',
             'techreport': 'Technical report',
             'unpublished': 'Unpublished'}
     };
