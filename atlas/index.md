@@ -38,7 +38,8 @@ Usage:
 
 References
 ---
-- (O’Donnell and Westin, 2007) O’Donnell, L. J., Westin, C.-F., 2007. Automatic tractography segmentation using a high-dimensional white matter atlas. IEEE Transactions on Medical Imaging 26 (11), 1562–1575.
-- (O’Donnell et al., 2012) O’Donnell, L. J., Wells III, W. M., Golby, A. J., Westin, C.-F., 2012. Unbiased groupwise registration of white matter tractography. In: International Con- ference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). Springer, pp. 123–130.
+- (Zhang, et al, 2018) Zhang, F., Wu, Y., Norton, I., Rathi, Y., Makris, N., O’Donnell, L.J., 2018. A data-driven groupwise fiber clustering atlas for consistent white matter parcellation and anatomical tract identification of subjects across the lifespan, in: Annual Meeting of the International Society for Magnetic Resonance in Medicine (ISMRM) (Oral Presentation).
 - (O’Donnell et al., 2017) O’Donnell, L. J., Suter, Y., Rigolo, L., Kahali, P., Zhang, F., Norton, I., Albi, A., Olubiyi, O., Meola, A., Essayed, W. I., Unadkat, P., Ciris, P. A., Wells III, W. M., Rathi, Y., Westin, C.-F., Golby, A. J., 2017. Automated white matter fiber tract identification in patients with brain tumors. NeuroImage: Clinical 13, 138–153.
-- (Zhang, et al, 2018) Zhang, F., Wu, Y., Norton, I., Rathi, Y., Makris, N., O’Donnell, L.J., 2018. A data­driven groupwise fiber clustering atlas for consistent white matter parcellation and anatomical tract identification of subjects across the lifespan, in: Annual Meeting of the International Society for Magnetic Resonance in Medicine (ISMRM) (Oral Presentation).
+- (O’Donnell et al., 2012) O’Donnell, L. J., Wells III, W. M., Golby, A. J., Westin, C.-F., 2012. Unbiased groupwise registration of white matter tractography. In: International Con- ference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). Springer, pp. 123–130.
+- (O’Donnell and Westin, 2007) O’Donnell, L. J., Westin, C.-F., 2007. Automatic tractography segmentation using a high-dimensional white matter atlas. IEEE Transactions on Medical Imaging 26 (11), 1562–1575.
+
