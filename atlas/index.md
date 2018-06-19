@@ -13,6 +13,8 @@ The video below shows the whole brain fiber cluster atlas (800 fiber clusters).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLww-JBrXO084AJN_nEZI838rFzwCaWGTY&index=0" frameborder="0" allowfullscreen="1" showinfo="1" rel="0"></iframe>
 
+&nbsp;
+
 The video below shows the annotated anatomical fiber tracts (58 deep white matter tracts and 198 superficial fiber clusters organized into 16 categories according to the brain lobes they connect) .
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLww-JBrXO084AJN_nEZI838rFzwCaWGTY&index=1" frameborder="0" allowfullscreen="1" showinfo="2" rel="0"></iframe>
