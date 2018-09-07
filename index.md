@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Diffusion magnetic resonance imaging in 3D Slicer open-source software.
+SlicerDMRI is an open-source project to improve and extend diffusion magnetic resonance imaging software in 3D Slicer.
 
 What can I do using SlicerDMRI?
 ---------------------
