@@ -21,8 +21,8 @@ Usage:
 ---
 
 * [Instructions](https://github.com/SlicerDMRI/ORG-Atlases#org-atlases) for downloading and visualizing the atlas
-* [Instructions](https://github.com/SlicerDMRI/whitematteranalysis/wiki) for installing whitematteranalysis to apply the atlas
-* [Instructions](<https://github.com/SlicerDMRI/whitematteranalysis/wiki/2c)-Running-the-Clustering-Pipeline-to-Cluster-a-Single-Subject-from-the-Atlas>) for applying the atlas for subject-specific tractography parcellation
+* [Instructions](https://github.com/SlicerDMRI/whitematteranalysis) for installing whitematteranalysis to apply the atlas
+* [Instructions](https://github.com/SlicerDMRI/whitematteranalysis/blob/master/doc/subject-specific-tractography-parcellation.md) for applying the atlas for subject-specific tractography parcellation
 * [Instructions](https://github.com/pnlbwh/ukftractography) for UKF tractography, on which the atlas is based. The atlas can be applied to streamline tractography in vtk format, with RAS (right-anterior-superior) coordinate system convention.
 
 References:
