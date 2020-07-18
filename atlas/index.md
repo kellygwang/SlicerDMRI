@@ -28,6 +28,7 @@ Usage:
 References:
 ---
 - Zhang, F., Wu, Y., Norton, I., Rathi, Y., Makris, N., O’Donnell, L.J., 2018. An anatomically curated fiber clustering white matter atlas for consistent white matter tract parcellation across the lifespan. NeuroImage, 2018.
+- Zhang, F., Wu, Y., Norton, I., Rathi, Y., Golby, A. J., O'Donnell, L. J., 2019. Test–retest reproducibility of white matter parcellation using diffusion MRI tractography fiber clustering. Human Brain Mapping, 40(10), 3041-3057.
 - O’Donnell, L. J., Suter, Y., Rigolo, L., Kahali, P., Zhang, F., Norton, I., Albi, A., Olubiyi, O., Meola, A., Essayed, W. I., Unadkat, P., Ciris, P. A., Wells III, W. M., Rathi, Y., Westin, C.-F., Golby, A. J., 2017. Automated white matter fiber tract identification in patients with brain tumors. NeuroImage: Clinical 13, 138–153.
 - O’Donnell, L. J., Wells III, W. M., Golby, A. J., Westin, C.-F., 2012. Unbiased groupwise registration of white matter tractography. In: International Con- ference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). pp. 123–130.
 - Malcolm, J.G., Shenton, M.E. and Rathi, Y., 2010. Filtered multitensor tractography. IEEE transactions on medical imaging, 29(9), pp.1664-1675
