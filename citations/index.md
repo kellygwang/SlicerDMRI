@@ -18,7 +18,7 @@ How to cite SlicerDMRI in publications
 
 * An example of how to cite whitematteranalysis and the ORG atlas (modify the sentence according to your use case):
 
-    "We performed tractography parcellation (or anatomical tract identification) usin the whitematteranalysis package and th ORG tractograph atla (http://dmri.slicer.org/atlases/) (Zhang et al. 2018; O'Donnell et al. 2007)."
+    "We performed tractography parcellation (or anatomical tract identification) using the whitematteranalysis package and the ORG tractography atlas (http://dmri.slicer.org/atlases/) (Zhang et al. 2018; O'Donnell et al. 2007)."
     
     - [Zhang, F., Wu, Y., Norton, I., Rathi, Y., Makris, N., O’Donnell, L.J., 2018. An anatomically curated fiber clustering white matter atlas for consistent white matter tract parcellation across the lifespan. NeuroImage, 179: 429–447, 2018.](https://doi.org/10.1016/j.neuroimage.2018.06.027)
     
