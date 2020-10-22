@@ -8,7 +8,7 @@ order: 2
 How to cite SlicerDMRI in publications
 --------------------------------------
 * How to cite the [Slicer platform](http://wiki.slicer.org/slicerWiki/index.php/CitingSlicer)
-* An example of how to cite SlicerDMRI (modify the first part of the sentence according to your use case):
+* An example of how to cite SlicerDMRI (modify the sentence according to your use case):
 
     "We performed diffusion MRI tractography and/or analysis and/or visualization in 3D Slicer (www.slicer.org) via the SlicerDMRI project (http://dmri.slicer.org) (Zhang et al. 2020; Norton et al. 2017)."
     
@@ -16,7 +16,12 @@ How to cite SlicerDMRI in publications
     
     - [Isaiah Norton, Walid Ibn Essayed, Fan Zhang, Sonia Pujol, Alex Yarmarkovich, Alexandra J. Golby, Gordon Kindlmann, Demian Wassermann, Raul San Jose Estepar, Yogesh Rathi, Steve Pieper, Ron Kikinis, Hans J. Johnson, Carl-Fredrik Westin and Lauren J. O'Donnell. SlicerDMRI: Open Source Diffusion MRI Software for Brain Cancer Research. Cancer Research 77(21), e101-e103, 2017.](http://cancerres.aacrjournals.org/content/77/21/e101)
 
+* An example of how to cite whitematteranalysis and the ORG atlas (modify the sentence according to your use case):
 
+    "We performed tractography parcellation (or anatomical tract identification) usin the whitematteranalysis package and th ORG tractograph atla (http://dmri.slicer.org/atlases/) (Zhang et al. 2018)."
+    
+    - [Zhang, F., Wu, Y., Norton, I., Rathi, Y., Makris, N., O’Donnell, L.J., 2018. An anatomically curated fiber clustering white matter atlas for consistent white matter tract parcellation across the lifespan. NeuroImage, 179: 429–447, 2018.](https://doi.org/10.1016/j.neuroimage.2018.06.027)
+    
 Citations
 ---------
 
