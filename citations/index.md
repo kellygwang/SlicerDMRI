@@ -22,8 +22,6 @@ How to cite SlicerDMRI in publications
     
     - [Zhang, F., Wu, Y., Norton, I., Rathi, Y., Makris, N., O’Donnell, L.J., 2018. An anatomically curated fiber clustering white matter atlas for consistent white matter tract parcellation across the lifespan. NeuroImage, 179: 429–447, 2018.](https://doi.org/10.1016/j.neuroimage.2018.06.027)
     
-    - [O’Donnell, L. J., Westin, C.-F., 2007. Automatic tractography segmentation using a high-dimensional white matter atlas. IEEE Transactions on Medical Imaging 26 (11), 1562–1575](https://ieeexplore.ieee.org/abstract/document/4359056)
-    
 Citations
 ---------
 
