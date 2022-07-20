@@ -11,16 +11,16 @@ Atlas Visualization Videos:
 ---
 The video below shows the whole brain fiber cluster atlas (800 fiber clusters).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLww-JBrXO084AJN_nEZI838rFzwCaWGTY&index=0" frameborder="0" allowfullscreen="1" showinfo="1" rel="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=kM2AMXsLzyo&list=PLww-JBrXO084AJN_nEZI838rFzwCaWGTY&index=1&ab_channel=SlicerDMRI" frameborder="0" allowfullscreen="1" showinfo="1" rel="0"></iframe>
 
 The video below shows the annotated anatomical fiber tracts (58 deep white matter tracts and 198 superficial fiber clusters organized into 16 categories according to the brain lobes they connect) .
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLww-JBrXO084AJN_nEZI838rFzwCaWGTY&index=1" frameborder="0" allowfullscreen="1" showinfo="2" rel="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=kM2AMXsLzyo&list=PLww-JBrXO084AJN_nEZI838rFzwCaWGTY&index=2&ab_channel=SlicerDMRI" frameborder="0" allowfullscreen="1" showinfo="2" rel="0"></iframe>
 
 Usage:
 ---
 
-* [Instructions](https://github.com/SlicerDMRI/ORG-Atlases#org-atlases) for downloading and visualizing the atlas
+* [Instructions](https://github.com/SlicerDMRI/ORG-Atlases#org-atlases) for downloading and visualizing the atlas. The list of anatomical tracts in the atlas can be found [here](https://github.com/SlicerDMRI/ORG-Atlases/blob/master/Tracts-in-ORG-800FC-100HCP.md).
 * [Instructions](https://github.com/SlicerDMRI/whitematteranalysis) for installing whitematteranalysis to apply the atlas
 * [Instructions](https://github.com/SlicerDMRI/whitematteranalysis/blob/master/doc/subject-specific-tractography-parcellation.md) for applying the atlas for subject-specific tractography parcellation
 * [Instructions](https://github.com/pnlbwh/ukftractography) for UKF tractography, on which the atlas is based. The atlas can be applied to streamline tractography in vtk format, with RAS (right-anterior-superior) coordinate system convention.
