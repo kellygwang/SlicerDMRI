@@ -20,7 +20,7 @@ The video below shows the annotated anatomical fiber tracts (58 deep white matte
 Usage:
 ---
 
-* [Instructions](https://github.com/SlicerDMRI/ORG-Atlases#org-atlases) for downloading and visualizing the atlas. The list of anatomical tracts in the atlas can be found [here](https://github.com/SlicerDMRI/ORG-Atlases/blob/master/Tracts-in-ORG-800FC-100HCP.md).
+* [Instructions](https://github.com/SlicerDMRI/ORG-Atlases) for downloading and visualizing the atlas. The list of anatomical tracts in the atlas can be found [here](https://github.com/SlicerDMRI/ORG-Atlases/blob/master/Tracts-in-ORG-800FC-100HCP.md).
 * [Instructions](https://github.com/SlicerDMRI/whitematteranalysis) for installing whitematteranalysis to apply the atlas
 * [Instructions](https://github.com/SlicerDMRI/whitematteranalysis/blob/master/doc/subject-specific-tractography-parcellation.md) for applying the atlas for subject-specific tractography parcellation
 * [Instructions](https://github.com/pnlbwh/ukftractography) for UKF tractography, on which the atlas is based. The atlas can be applied to streamline tractography in vtk format, with RAS (right-anterior-superior) coordinate system convention.
