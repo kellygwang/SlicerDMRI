@@ -18,13 +18,16 @@ General Slicer guide
 
 Tutorials and sample data
 ---------------------
-* [DWIConverter tutorial](http://dmri.slicer.org/tutorials/dwi_converter) ([test data](http://slicer.kitware.com/midas3/download/item/93008/SiemensTrioTim2.tar.gz)): diffusion weighted image data conversion from DICOM to NRRD
+* [DWIConverter tutorial](http://dmri.slicer.org/tutorials/dwi_converter) ([test data](https://github.com/Slicer/slicer.kitware.com-midas3-archive/releases/download/SHA256/717d68b4aee11b8ffba5dd5409ab87a658d9fbef3061a7dcd1088c0bf14a7473)): diffusion weighted image data conversion from DICOM to NRRD
 * [Slicer DTI tutorial](http://dmri.slicer.org/tutorials/diffusion_mri_analysis): General DTI overview
 * [Slicer Neurosurgical Planning tutorial](http://dmri.slicer.org/tutorials/neurosurgical_planning_dti): Interactive DTI tractography in Slicer
 * [Slicer UKF Tractography tutorial](http://dmri.slicer.org/tutorials/ukf_tractography): Multi-fiber tractography for crossing fibers
 * [Slicer Fiber Bundle Selection and Scalar Measurements tutorial](http://dmri.slicer.org/tutorials/tractography_measurement): Tractography selection and measurements for studies
 * [Slicer CLI Application tutorial](http://dmri.slicer.org/tutorials/cli_measurements): Tractography selection and measurements in command line interface (CLI) mode
 * [DICOM TR Converter tutorial](http://dmri.slicer.org/tutorials/dicom_tractography): Loading and saving tractography as DICOM TR objects.
+
+*Note*: the linked test data is an NRRD file containing a diffusion-weighted MRI volume. You will need to set a file
+suffix (i.e. `.nrrd`) to load it into Slicer.
 
 Individual Slicer module documentation pages
 ---------------------
